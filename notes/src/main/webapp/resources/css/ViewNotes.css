@@ -1,0 +1,22 @@
+td, th {
+    padding: 5px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.fake-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.fake-link:visited {
+    color: purple;
+}
+
+.currentPage {
+    color: darkgreen;
+}
